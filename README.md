@@ -36,10 +36,6 @@ COGS (Cost of Goods Sold): The total cost incurred to produce or purchase the go
 Gross Margin: The difference between net sales and COGS, representing the profitability of goods sold before operational expenses.
 Gross Margin %: The percentage of revenue retained as gross margin
 
-Live Dashboard:
-
-Links: (<iframe title="sqlpluspowebi" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWFlNTM5NzItZTAzNC00YWU0LWI4MjItZTNhZTM5MTljNjZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>)
-
 
 
 
