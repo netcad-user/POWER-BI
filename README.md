@@ -55,7 +55,7 @@ Gross Margin %: The percentage of revenue retained as gross margin
 
 Live Dashboard:
 
-[Link here]("https://app.powerbi.com/view?r=eyJrIjoiOWFlNTM5NzItZTAzNC00YWU0LWI4MjItZTNhZTM5MTljNjZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Link here](https://app.powerbi.com/view?r=eyJrIjoiOWFlNTM5NzItZTAzNC00YWU0LWI4MjItZTNhZTM5MTljNjZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9/)
 
 Data Model:
 In the Model View of Power BI Desktop, we create the data model. Data is imported from a MySQL database using the Get Data option available in Power BI.
