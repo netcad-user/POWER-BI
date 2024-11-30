@@ -53,6 +53,14 @@ Gross Margin: The difference between net sales and COGS, representing the profit
 
 Gross Margin %: The percentage of revenue retained as gross margin
 
+Data Model:
+In the Model View of Power BI Desktop, we create the data model. Data is imported from a MySQL database using the Get Data option available in Power BI.
+
+
+
+
+
+
 
 
 
