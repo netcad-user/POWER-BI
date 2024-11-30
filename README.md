@@ -53,11 +53,22 @@ Gross Margin: The difference between net sales and COGS, representing the profit
 
 Gross Margin %: The percentage of revenue retained as gross margin
 
+Live Dashboard:
+
+[Link here]("https://app.powerbi.com/view?r=eyJrIjoiOWFlNTM5NzItZTAzNC00YWU0LWI4MjItZTNhZTM5MTljNjZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 Data Model:
 In the Model View of Power BI Desktop, we create the data model. Data is imported from a MySQL database using the Get Data option available in Power BI.
 
 ![image alt](https://github.com/netcad-user/POWER-BI/blob/60f94d2945e528ec85fb9d53d51d2de22dfbb62d/Project_Screenshot2_updated.png)
 
+Insights and Results:
+
+Transformed outdated Excel reports into an interactive Power BI dashboard by integrating data from Excel, CSV files, and SQL databases, significantly improving functionality.
+
+Designed and optimized data models and visualizations in Power BI, achieving a 5% performance enhancement using DAX Studio.
+
+Enabled detailed departmental trend analysis through the Power BI dashboard, contributing to a projected 10% revenue growth and 20% cost savings.
 
 
 
