@@ -7,7 +7,7 @@ Retailers: Businesses that sell products directly to consumers, either through p
 Direct Sales: Products are sold directly to customers without intermediaries, using the company’s own sales channels.
 Distributors: Intermediaries who purchase products from the company and resell them to retailers or other businesses.
 
-🛠 Tech Stack Utilized:
+🛠 **Tech Stack Utilized:**
 
 MS Excel: For initial data exploration and basic analysis.
 
@@ -21,7 +21,7 @@ DAX (Data Analysis Expressions): For advanced calculations and insights in Power
 
 Project Charter: A concise document outlining the project's objectives, scope, and deliverables.
 
-⚡️ Key Areas of Focus:
+⚡️ **Key Areas of Focus**:
 
 Finance View: Delivers insights into financial performance, budgeting, and expenditure management.
 
@@ -35,7 +35,7 @@ Executive View: Provides a high-level summary of critical business metrics and s
 
 Support View: Measures customer support performance, including resolution times and service quality.
 
-👩‍💻 Business Glossary:
+👩‍💻 **Business Glossary**:
 
 Gross Price: The initial price of a product or service before any discounts, deductions, or taxes are applied.
 
@@ -53,16 +53,16 @@ Gross Margin: The difference between net sales and COGS, representing the profit
 
 Gross Margin %: The percentage of revenue retained as gross margin
 
-Live Dashboard:
+**Live Dashboard:**
 
-[Link here](https://app.powerbi.com/view?r=eyJrIjoiOWFlNTM5NzItZTAzNC00YWU0LWI4MjItZTNhZTM5MTljNjZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9/)
+[Link here](<iframe title="sqlpluspowebi" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWFlNTM5NzItZTAzNC00YWU0LWI4MjItZTNhZTM5MTljNjZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>/)
 
 Data Model:
 In the Model View of Power BI Desktop, we create the data model. Data is imported from a MySQL database using the Get Data option available in Power BI.
 
 ![image alt](https://github.com/netcad-user/POWER-BI/blob/60f94d2945e528ec85fb9d53d51d2de22dfbb62d/Project_Screenshot2_updated.png)
 
-Insights and Results:
+**Insights and Results:**
 
 Transformed outdated Excel reports into an interactive Power BI dashboard by integrating data from Excel, CSV files, and SQL databases, significantly improving functionality.
 
