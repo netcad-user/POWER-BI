@@ -55,7 +55,7 @@ Gross Margin %: The percentage of revenue retained as gross margin
 
 Data Model:
 In the Model View of Power BI Desktop, we create the data model. Data is imported from a MySQL database using the Get Data option available in Power BI.
-
+![image alt](l)https://github.com/netcad-user/POWER-BI/blob/60f94d2945e528ec85fb9d53d51d2de22dfbb62d/Project_Screenshot2_updated.png
 
 
 
